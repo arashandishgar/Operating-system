@@ -1,0 +1,30 @@
+{
+  "type":"FCFS",
+  "unitTime" :2,
+  "arrayList": [
+    {
+      "exceTime": 7,
+      "enterTime": 0
+    },
+    {
+      "exceTime": 5,
+      "enterTime": 1
+    },
+    {
+      "exceTime": 3,
+      "enterTime": 2
+    },
+    {
+      "exceTime": 1,
+      "enterTime": 3
+    },
+    {
+      "exceTime": 2,
+      "enterTime": 4
+    },
+    {
+      "exceTime": 1,
+      "enterTime": 5
+    }
+  ]
+}
